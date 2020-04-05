@@ -1,14 +1,12 @@
 {
-  "name": "site",
-  "version": "1.0.0",
-  "description": "landing page for corona siteweb",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "ayoub",
-  "license": "ISC",
-  "devDependencies": {
-    "node-sass": "^4.13.1"
-  }
+    "name": "learn-sass",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "nounousse": "node-sass -w scss/ -o  test2/css/ --recursive"
+    },
+    "author": "",
+    "license": "ISC"
+
 }
