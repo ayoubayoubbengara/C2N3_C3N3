@@ -4,7 +4,7 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "ayoub bengara": "node-sass -w scss/ -o  test2/css/ --recursive"
+        "ayoubbengara": "node-sass -w scss/ -o  test2/css/ --recursive"
     },
     "author": "",
     "license": "ISC"
